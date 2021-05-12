@@ -21,7 +21,7 @@
 [**TecnoCraft**](https://tecnocraft.net/) - Il più grande server RolePlay italiano, giocato da centinaia di giocatori giornalmente.
 <br>**Status**: In sviluppo continuo.
 
-[**BestemmiometroBot**](https://github.com/Rattlyy/BestemmiometroBot) - Bot creato per noia nel 2018 in NodeJS, inspirandomi alla sua versione esistente su telegram. Totalmente rewritato nel 2021 in java. 
+[**BestemmiometroBot**](https://github.com/Rattlyy/bestemmiometro) - Bot creato per noia nel 2018 in NodeJS ed uploadato su GitHub nel 2019, inspirandomi alla sua versione esistente su telegram. Totalmente rewritato nel 2021 in java.
 <br>**Status**: Completato. Non riceverà più updates.
 
 [**FalcunDetector**](https://github.com/Rattlyy/FalcunDetector) - Piccolo plugin che serve per rilevare se un utente sta usando il [Falcun Client](https://falcun.net/), uno dei primi che ho mai fatto. 
