@@ -27,6 +27,9 @@
 [**FalcunDetector**](https://github.com/Rattlyy/FalcunDetector) - Piccolo plugin che serve per rilevare se un utente sta usando il [Falcun Client](https://falcun.net/), uno dei primi che ho mai fatto. 
 <br>**Status**: Completato. Non riceverà più updates.
 
+[**Amogus**](https://github.com/Rattlyy/Amogus) - Piccolo plugin che aggiunge un entità chiamata Amogus (mi sono inspirato al meme) interamente in minecraft vanilla, usando solo una texturepack.
+<br>**Status**: Completato. Non riceverà più updates.
+
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rattlyy&show_icons=true&count_private=true" alt="Rattlyy" /></p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> </p>
