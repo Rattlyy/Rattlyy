@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Rattlyy" alt="Rattlyy" />
 </p>
 
-<h2 align="center"> What I use regularly: </h2>
+<h2 align="center"> What I use regularly</h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-<h2 align="center"> My Works: </h2>
+<h2 align="center"> My Works</h2>
 
 [**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian RolePlay Network, played by thousands of people every day.
 <br>**Status**: Under active development.
