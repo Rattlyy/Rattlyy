@@ -1,9 +1,9 @@
-<h1 align="center">Benvenuto nel profilo di Rattlyy! 👋</h1>
+<h1 align="center">Welcome in my profile! 👋</h1>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Rattlyy" alt="Rattlyy" />
 </p>
 
-<h2 align="center"> Cosa utilizzo regolarmente: </h2>
+<h2 align="center"> What I use regularly: </h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
@@ -16,19 +16,22 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-<h2 align="center"> I miei lavori: </h2>
+<h2 align="center"> My Works: </h2>
 
-[**TecnoCraft**](https://tecnocraft.net/) - Il più grande server RolePlay italiano, giocato da centinaia di giocatori giornalmente.
-<br>**Status**: In sviluppo continuo.
+[**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian RolePlay Network, played by thousands of people every day.
+<br>**Status**: Under active development.
 
-[**BestemmiometroBot**](https://github.com/Rattlyy/bestemmiometro) - Bot creato per noia nel 2018 in NodeJS ed uploadato su GitHub nel 2019, inspirandomi alla sua versione esistente su telegram. Totalmente rewritato nel 2021 in java.
-<br>**Status**: Completato. Non riceverà più updates.
+[**BestemmiometroBot**](https://github.com/Rattlyy/bestemmiometro) - Discord Bot that counts "bestemmie" (Italian slurs), originally made in 2017, rewrited in 2021 in Java.
+<br>**Status**: Completed. It won't receive any updates.
 
-[**FalcunDetector**](https://github.com/Rattlyy/FalcunDetector) - Piccolo plugin che serve per rilevare se un utente sta usando il [Falcun Client](https://falcun.net/), uno dei primi che ho mai fatto. 
-<br>**Status**: Completato. Non riceverà più updates.
+[**FalcunDetector**](https://github.com/Rattlyy/FalcunDetector) - Small plugin that detects if someone is using [Falcun Client](https://falcun.net/), One of the first I ever made.
+<br>**Status**: Completed. It won't receive any updates.
 
-[**Amogus**](https://github.com/Rattlyy/Amogus) - Piccolo plugin che aggiunge un entità chiamata Amogus (mi sono inspirato al meme) interamente in minecraft vanilla, usando solo una texturepack.
-<br>**Status**: Completato. Non riceverà più updates.
+[**Amogus**](https://github.com/Rattlyy/Amogus) - Plugin that adds an "Amogus" entity only by using a resourcepack and no client modification.
+<br>**Status**: Completed. It won't receive any updates.
+
+[**SkyWarsTracker**](https://github.com/Rattlyy/SkywarsTracker) - Overlay that shows Hypixel SkyWars stats in real time.
+<br>**Status**: Completed. It won't receive any updates.
 
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rattlyy&show_icons=true&count_private=true" alt="Rattlyy" /></p>
