@@ -34,7 +34,7 @@
 <br>**Status**: Completed. It won't receive any updates.
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rattlyy&show_icons=true&count_private=true&theme=cobalt" alt="Rattlyy" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rattlyy&show_icons=true&theme=cobalt"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rattlyy&show_icons=true&count_private=true&" alt="Rattlyy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rattlyy&show_icons=true" /></p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> </p>
 <hr>
