@@ -35,5 +35,6 @@
 
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rattlyy&show_icons=true&count_private=true" alt="Rattlyy" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBau-py&show_icons=true&theme=cobalt"/>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> </p>
 <hr>
