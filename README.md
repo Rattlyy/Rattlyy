@@ -18,7 +18,7 @@
 
 <h2 align="center"> My Works</h2>
 
-[**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian RolePlay Network, played by thousands of people every day.
+[**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day.
 <br>**Status**: Under active development.
 
 [**BestemmiometroBot**](https://github.com/Rattlyy/bestemmiometro) - Discord Bot that counts "bestemmie" (Italian slurs), originally made in 2017, rewrited in 2021 in Java.
