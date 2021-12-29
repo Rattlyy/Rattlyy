@@ -21,15 +21,12 @@
 <h2 align="center"> My Works</h2>
 
 [**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day.
-<br>**Status**: Under active development.
+<br>**Status**: Finished.
 
 [**BestemmiometroBot**](https://github.com/Rattlyy/bestemmiometro) - Discord Bot that counts "bestemmie" (Italian slurs), originally made in 2017, rewrited in 2021 in Java.
 <br>**Status**: Completed. It won't receive any updates.
 
 [**FalcunDetector**](https://github.com/Rattlyy/FalcunDetector) - Small plugin that detects if someone is using [Falcun Client](https://falcun.net/), One of the first I ever made.
-<br>**Status**: Completed. It won't receive any updates.
-
-[**Amogus**](https://github.com/Rattlyy/Amogus) - Plugin that adds an "Amogus" entity only by using a resourcepack and no client modification.
 <br>**Status**: Completed. It won't receive any updates.
 
 [**SkyWarsTracker**](https://github.com/Rattlyy/SkywarsTracker) - Overlay that shows Hypixel SkyWars stats in real time.
