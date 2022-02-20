@@ -20,9 +20,9 @@
 
 <h2 align="center"> What i've worked on</h2>
 
-[**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server.
+[**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server. [Current]
 
-[**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day.
+[**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day. [Resigned | 14/09/2020 - 01/2022]
 
 [**BestemmiometroBot**](https://github.com/Rattlyy/bestemmiometro) - Discord Bot that counts "bestemmie" (Italian slurs), originally made in 2017, rewrited in 2021 in Java.
 
