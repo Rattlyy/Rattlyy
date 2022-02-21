@@ -20,7 +20,7 @@
 
 <h2 align="center"> What i've worked on</h2>
 
-[**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server. [Current]
+[**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server.
 
 [**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day. [Resigned | 14/09/2020 - 01/2022]
 
