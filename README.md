@@ -26,10 +26,6 @@
 
 [**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day. [Resigned | 14/09/2020 - 01/2022]
 
-[**BestemmiometroBot**](https://github.com/Rattlyy/bestemmiometro) - Discord Bot that counts "bestemmie" (Italian slurs), originally made in 2017, rewrited in 2021 in Java.
-
-[**FalcunDetector**](https://github.com/Rattlyy/FalcunDetector) - Small plugin that detects if someone is using [Falcun Client](https://falcun.net/), One of the first I ever made.
-
 [**SkyWarsTracker**](https://github.com/Rattlyy/SkywarsTracker) - Overlay that shows Hypixel SkyWars stats in real time.
 
 <hr>
