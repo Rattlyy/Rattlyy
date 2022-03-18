@@ -26,6 +26,8 @@
 
 [**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day. [Resigned | 14/09/2020 - 01/2022]
 
+[**Duels**](https://github.com/Rattlyy/Duels) - A duels system with kits and arenas. WIP.
+
 [**SkyWarsTracker**](https://github.com/Rattlyy/SkywarsTracker) - Overlay that shows Hypixel SkyWars stats in real time.
 
 <hr>
