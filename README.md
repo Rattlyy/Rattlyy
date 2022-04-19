@@ -30,6 +30,8 @@
 
 [**SkyWarsTracker**](https://github.com/Rattlyy/SkywarsTracker) - Overlay that shows Hypixel SkyWars stats in real time.
 
+[**TodoList**](https://github.com/Rattlyy/TodoList) - A small todo list website I did as an exercise to learn jte & javalin.
+
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rattlyy&show_icons=true&count_private=true&" alt="Rattlyy" /></p>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> </p>
