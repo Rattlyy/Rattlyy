@@ -20,7 +20,7 @@
 
 <h2 align="center"> What i've worked on</h2>
 
-[**DevRoom**](https://devroomteam.com/)
+[**DevRoom**](https://devroomteam.com/) - Freelancer
 
 [**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server.
 
