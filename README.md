@@ -25,7 +25,9 @@
 
 [**SkyWarsTracker**](https://github.com/Rattlyy/SkywarsTracker) - Overlay that shows Hypixel SkyWars stats in real time.
 
-<hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rattlyy&show_icons=true&count_private=true&" alt="Rattlyy" /></p>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> </p>
-<hr>
+<hr />
+<p align="center">
+<img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> <br />
+<a href="https://tag.rc24.xyz/user/573481869937606696"><img src="https://tag.rc24.xyz/573481869937606696/tag.png" alt="RiiTag" /></a>
+</p>
+<hr />
