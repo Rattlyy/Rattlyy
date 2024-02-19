@@ -15,7 +15,9 @@
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
 
-[**CoralMC**](https://www.coralmc.it/) - Jr.Developer
+[**Horizon's End**](https://github.com/HorizonsEndMC/Ion) - SysAdmin & Developer [Resigned]
+
+[**CoralMC**](https://www.coralmc.it/) - Jr.Developer [Resigned]
 
 [**TecnoCraft**](https://tecnocraft.net/) - Sr.Developer [Resigned | 14/09/2020 - 01/2022]
 
