@@ -15,7 +15,7 @@
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
 
-[**Horizon's End**](https://github.com/HorizonsEndMC/Ion) - SysAdmin & Developer [Resigned]
+[**Horizon's End**](https://github.com/HorizonsEndMC) - SysAdmin & Developer on [Ion](https://github.com/HorizonsEndMC/Ion/) [Resigned]
 
 [**CoralMC**](https://www.coralmc.it/) - Jr.Developer [Resigned]
 
