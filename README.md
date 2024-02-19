@@ -11,13 +11,15 @@
 </a>
 </p>
 
-<h2 align="center"> What i've worked on</h2>
+<h2 align="center"> What i've worked on (Minecraft) </h2>
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
 
-[**CoralMC**](https://www.coralmc.it/) - The biggest Italian minecraft server.
+[**CoralMC**](https://www.coralmc.it/) - Jr.Developer
 
-[**TecnoCraft**](https://tecnocraft.net/) - The biggest Italian Roleplay minecraft server, played by thousands of people every day. [Resigned | 14/09/2020 - 01/2022]
+[**TecnoCraft**](https://tecnocraft.net/) - Sr.Developer [Resigned | 14/09/2020 - 01/2022]
+
+<h2 align="center"> Projects</h2>
 
 [**Duels**](https://github.com/Rattlyy/Duels) - A duels system with kits and arenas. Unfinished.
 
