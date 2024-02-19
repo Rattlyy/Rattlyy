@@ -6,8 +6,8 @@
 <h2 align="center"> Stats</h2>
 <p align="center">
 <a href="https://http.cat/200">
-<img src="https://raw.githubusercontent.com/Rattlyy/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/Rattlyy/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/Rattlyy/generateStats/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/Rattlyy/generateStats/master/generated/languages.svg#gh-dark-mode-only">
 </a>
 </p>
 
