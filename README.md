@@ -21,9 +21,17 @@
 
 <h2 align="center"> Projects</h2>
 
-[**Duels**](https://github.com/Rattlyy/Duels) - A duels system with kits and arenas. Unfinished.
+[**Duels**](https://github.com/Rattlyy/Duels) - (Minecraft Plugin) A duels system with kits and arenas. Unfinished.
 
 [**SkyWarsTracker**](https://github.com/Rattlyy/SkywarsTracker) - Overlay that shows Hypixel SkyWars stats in real time.
+
+[**KotlinMetadataRemover**](https://github.com/Rattlyy/KotlinMetadataRemover) - qProtect Obfuscator transformer that removes kotlin Metadata annotations.
+
+[**htmx-ktor**](https://github.com/Rattlyy/htmx-ktor) - Demo TODO app that showcases HTMX usage in a Ktor project with a Database (Exposed ORM) and basic CRUD functionality.
+
+[**quarkus-votes**](https://github.com/Rattlyy/quarkus-votes) - Website that simulates a school's student rep election process. Built with Quarkus & Quarkus Renarde.
+
+[**DomandePatenteB**](https://github.com/Rattlyy/DomandePatenteB) - Little Kotlin program that scrapes all of the Italian questions for the B driver license category.
 
 <hr />
 <p align="center">
