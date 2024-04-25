@@ -15,6 +15,8 @@
 
 [**Horizon's End**](https://github.com/HorizonsEndMC) - Former SysAdmin & Developer on [Ion](https://github.com/HorizonsEndMC/Ion/)
 
+[**Polyfrost**](https://polyfrost.org) - Former Developer on [OneConfig](https://github.com/Polyfrost/OneConfig)
+
 [**CoralMC**](https://www.coralmc.it/) - Former Jr.Developer
 
 [**TecnoCraft**](https://tecnocraft.net/) - Former Sr.Developer
