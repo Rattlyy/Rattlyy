@@ -13,11 +13,11 @@
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
 
-[**Horizon's End**](https://github.com/HorizonsEndMC) - SysAdmin & Developer on [Ion](https://github.com/HorizonsEndMC/Ion/) [Resigned]
+[**Horizon's End**](https://github.com/HorizonsEndMC) - Former SysAdmin & Developer on [Ion](https://github.com/HorizonsEndMC/Ion/)
 
-[**CoralMC**](https://www.coralmc.it/) - Jr.Developer [Resigned]
+[**CoralMC**](https://www.coralmc.it/) - Former Jr.Developer
 
-[**TecnoCraft**](https://tecnocraft.net/) - Sr.Developer [Resigned | 14/09/2020 - 01/2022]
+[**TecnoCraft**](https://tecnocraft.net/) - Former Sr.Developer
 
 <h2 align="center"> Projects</h2>
 
