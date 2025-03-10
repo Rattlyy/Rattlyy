@@ -12,7 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=Rattlyy" alt="Rattlyy" />
 </p>
 
-<h2 align="center"> What i've worked on </h2>
+<h2 align="center">🎓 Education </h2>
+
+2019-2024 - Highschool diploma in ICT, marked 100/100
+
+2024-WIP - BEng in Computer Engineering, at Polytechnic Institute of Bari
+
+<h2 align="center">👨‍💻 What i've worked on </h2>
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
 
@@ -28,7 +34,7 @@
 
 [**TecnoCraft**](https://tecnocraft.net/) - Former Sr.Developer
 
-<h2 align="center"> Projects</h2>
+<h2 align="center">🔬 Projects</h2>
 
 [**GmmzFlights**](https://github.com/Rattlyy/GmmzFlights) - A flight ticket price aggregator website written in Kotlin & React.
 
@@ -41,6 +47,8 @@
 [**OpenRGBLotusLantern**](https://github.com/Rattlyy/OpenRGBLotusLantern) - Small NodeJS script to connect Lotus Lantern capable LED strips to the OpenRGB app, using the keyboard visualizer protocol.
 
 [**DomandePatenteB**](https://github.com/Rattlyy/DomandePatenteB) - Little Kotlin program that scrapes all of the Italian questions for the B driver license category.
+
+[**PolibaOrari**](https://github.com/Rattlyy/PolibaOrari) - PWA that displays the Polytechnic University of Bari's timetable. 
 
 <hr />
 <p align="center">
