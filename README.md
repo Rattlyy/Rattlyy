@@ -53,6 +53,6 @@
 <hr />
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/573481869937606696.png" /> <br />
-<a href="https://tag.rc24.xyz/user/573481869937606696"><img src="https://tag.rc24.xyz/573481869937606696/tag.png" alt="RiiTag" /></a>
+<!-- <a href="https://tag.rc24.xyz/user/573481869937606696"><img src="https://tag.rc24.xyz/573481869937606696/tag.png" alt="RiiTag" /></a> -->
 </p>
 <hr />
