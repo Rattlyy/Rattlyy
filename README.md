@@ -26,6 +26,8 @@
 
 ---
 
+[**MacMC**](https://www.youtube.com/@tinymacdude) - tinymacdude's Minecraft server - Developer of BlockHunt
+
 [**Horizon's End**](https://github.com/HorizonsEndMC) - Former SysAdmin & Developer on [Ion](https://github.com/HorizonsEndMC/Ion/)
 
 [**Polyfrost**](https://polyfrost.org) - Former Developer on [OneConfig](https://github.com/Polyfrost/OneConfig)
