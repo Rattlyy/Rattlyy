@@ -38,7 +38,9 @@
 
 [**TecnoCraft**](https://tecnocraft.net/) - Former Sr.Developer
 
-<h2 align="center">🔬 Projects</h2>
+<h2 align="center">🔬 Works</h2>
+
+[**GHSA-mp3v-c49h-86mm**](https://github.com/SkinsRestorer/SkinsRestorer/security/advisories/GHSA-mp3v-c49h-86mm) - Java RCE obtained through unchecked object serialization.
 
 [**GmmzFlights**](https://github.com/Rattlyy/GmmzFlights) - A flight ticket price aggregator website written in Kotlin & React.
 
