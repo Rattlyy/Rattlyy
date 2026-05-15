@@ -16,15 +16,17 @@
 
 2019-2024 - Highschool diploma in ICT, marked 100/100
 
-2024-WIP - BEng in Computer Engineering, at Polytechnic Institute of Bari
-
 2023 - Cambridge's Certificate in Advanced English passed at C2 CEFR level
+
+2024-WIP - BEng in Computer Engineering, at Polytechnic Institute of Bari
 
 <h2 align="center">👨‍💻 What i've worked on </h2>
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
 
 [**GrindrPlus**](https://github.com/R0rt1z2/GrindrPlus) - Contributor & Mantainer
+
+Healthcare-related projects for Regione Puglia under my current employer
 
 ---
 
