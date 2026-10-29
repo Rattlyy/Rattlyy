@@ -22,11 +22,10 @@
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
 
-[**GrindrPlus**](https://github.com/R0rt1z2/GrindrPlus) - Contributor & Mantainer
-
 Healthcare-related projects for Regione Puglia under my current employer
 
 ---
+[**GrindrPlus**](https://github.com/R0rt1z2/GrindrPlus) - Contributor & Mantainer
 
 [**MacMC**](https://www.youtube.com/@tinymacdude) - tinymacdude's Minecraft server - Developer of BlockHunt
 
