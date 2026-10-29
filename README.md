@@ -18,8 +18,6 @@
 
 2023 - Cambridge's Certificate in Advanced English passed at C2 CEFR level
 
-2024-WIP - BEng in Computer Engineering, at Polytechnic Institute of Bari
-
 <h2 align="center">👨‍💻 What i've worked on </h2>
 
 [**DevRoom**](https://devroomteam.com/) - Freelancer
